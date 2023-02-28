@@ -4,7 +4,7 @@
 * [Terms of reference](#terms-of-reference)
 * [Cubic spline](#cubic-spline)
 * [Parametric cubic spline](#parametric-cubic-spline)
-* [Intersection point of two splines](#intersection-point-of-two-splines-and-minimum-distance-between-two-splines)
+* [Intersection point of two splines and minimum distance between two splines](#intersection-point-of-two-splines-and-minimum-distance-between-two-splines)
 
 ## Terms of Reference
  
