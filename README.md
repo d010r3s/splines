@@ -18,6 +18,7 @@ A cubic spline is a spline constructed of piecewise third-order polynomials whic
 
 ![Formula used](https://i.imgur.com/0lU4qyO.png)
 ![Formula used](https://i.imgur.com/8lzXqOJ.png)
+
 [source](http://statistica.ru/branches-maths/interpolyatsiya-splaynami-teor-osnovy/)
 
 
