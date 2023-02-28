@@ -4,8 +4,7 @@
 * [Terms of reference](#terms-of-reference)
 * [Cubic spline](#cubic-spline)
 * [Parametric cubic spline](#parametric-cubic-spline)
-* [Intersection point of two splines](#intersection-point-of-two-splines)
-* [Distance between two splines](#distance-between-two-splines)
+* [Intersection point of two splines](#intersection-point-of-two-splines-and-minimum-distance-between-two-splines)
 
 ## Terms of Reference
  
@@ -50,7 +49,7 @@ we’ve made a variable substitution t = s - s0.
 * [Tridiagonal matrix algorithm](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)
 * [Fitting parametric cubic splines to a set of points](https://www.physicsforums.com/attachments/parametric-spline-tutorialv2-pdf.12898)
 
-## Intersection point of two splines and distance between two splines
+## Intersection point of two splines and minimum distance between two splines
 
 #### Methods used:
 * Creating an additional third spline merged from the two given
