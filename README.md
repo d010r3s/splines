@@ -49,14 +49,10 @@ we’ve made a variable substitution t = s - s0.
 #### Methods used:
 * [Tridiagonal matrix algorithm](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)
 * [Fitting parametric cubic splines to a set of points](https://www.physicsforums.com/attachments/parametric-spline-tutorialv2-pdf.12898)
-## Intersection point of two splines
 
-```
-//
-```
+## Intersection point of two splines and distance between two splines
 
-## Distance between two splines
-
-```
-//
-```
+#### Methods used:
+* Creating an additional third spline merged from the two given
+* [Newton-Raphson method](https://en.wikipedia.org/wiki/Newton%27s_method)
+* [A Gradient-Descent Method](https://hal.archives-ouvertes.fr/hal-03854553/file/annpr.pdf)
