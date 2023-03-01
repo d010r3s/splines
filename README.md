@@ -48,7 +48,11 @@ we’ve made a variable substitution t = s - s0.
 
 #### Methods used:
 * [Tridiagonal matrix algorithm](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)
+###### Tridiagonal matrix algorithm
+![Tridiagonal matrix algorithm](https://www.cfd-online.com/W/images/math/5/b/7/5b73418f4d5bd7154e369a6d6f4ae2fd.png)
 * [Fitting parametric cubic splines to a set of points](https://www.physicsforums.com/attachments/parametric-spline-tutorialv2-pdf.12898)
+###### Fitting parametric cubic spline to a set of points
+![Set](https://i.imgur.com/iUAsmUc.png)
 
 ## Intersection point of two splines and minimum distance between two splines
 
