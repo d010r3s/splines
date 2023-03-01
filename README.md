@@ -55,4 +55,8 @@ we’ve made a variable substitution t = s - s0.
 #### Methods used:
 * Creating an additional third spline merged from the two given
 * [Newton-Raphson method](https://en.wikipedia.org/wiki/Newton%27s_method)
-* [A Gradient-Descent Method](https://hal.archives-ouvertes.fr/hal-03854553/file/annpr.pdf)
+###### Newton-Raphson Method 
+![Newton Method](https://media.geeksforgeeks.org/wp-content/cdn-uploads/newtonRaphsonMethod.png)
+* [Gradient-Descent Method](https://hal.archives-ouvertes.fr/hal-03854553/file/annpr.pdf)
+###### Gradient-Descent Method
+![Gradient descent Method](https://miro.medium.com/max/1400/1*jNyE54fTVOH1203IwYeNEg.png)
