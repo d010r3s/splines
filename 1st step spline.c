@@ -58,5 +58,5 @@ int main() {
                   ((x - node[i]) * (x - node[i]) * (x - node[i + 1]) / (h * h)) * m[i + 1];
         }
     }
-    printf("The value of the parametric cubic spline at x = %lf is %lf\n", x, ans);
+    printf("The value of the cubic spline at x = %lf is %lf\n", x, ans);
 }
